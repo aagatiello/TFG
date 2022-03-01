@@ -1,7 +1,7 @@
 # TFG
 
 ## :round_pushpin: Objetivo
-Análisis de sentimiento en textos largos utilizando reseñas de Amazon
+Análisis de sentimiento en textos largos utilizando reseñas de Amazon para saber si expresan un sentimiento positivo, negativo o neutro.
 
 ## :bookmark_tabs: Contenido
 1) EDA: análisis exploratorio de los datos
