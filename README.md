@@ -21,6 +21,10 @@ Ajuste de hiperparámetros:
 - Hyperparameters_SVM
 - Hyperparameters_LogisticRegression
 
+Comparación demo:
+
+- Sentences_TextBlob
+
 ## :paperclips: Pre-requisitos 
 Para poder ejecutar el Notebook revisar los requerimientos de las librerias y sus versiones en `requirements.txt`.
 
@@ -36,5 +40,4 @@ scipy == 1.8.0
 seaborn == 0.11.2
 textblob == 0.17.1
 wordcloud == 1.8.2.2
-
 ```
