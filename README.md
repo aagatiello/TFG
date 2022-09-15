@@ -25,6 +25,8 @@ Comparación demo:
 
 - Sentences_TextBlob
 
+**!** Como los gráficos generados por plotly son dinámicos no es posible ver los resultados en la vista previa, para ello se puede consultar el PDF del notebook correspondiente.
+
 ## :paperclips: Pre-requisitos 
 Para poder ejecutar el Notebook revisar los requerimientos de las librerias y sus versiones en `requirements.txt`.
 
